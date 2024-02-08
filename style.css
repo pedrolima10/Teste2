@@ -1,0 +1,21 @@
+body {
+    font-family: "Protest Riot", sans-serif;
+}
+
+h1 {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cor1 {
+    background-color:#00BFB2;
+}
+
+.cor2 {
+    background-color:#1B365C;
+}
+
+.cor3 {
+    background-color:#2AC2FF;
+}
